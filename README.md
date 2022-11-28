@@ -1,4 +1,4 @@
-# Arrow Functions
+# filter method in advanced js
 
 To use this repository:
 - Click the "Use this template" button in the upper right
